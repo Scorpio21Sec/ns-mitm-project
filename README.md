@@ -33,7 +33,7 @@ No real networking, no raw sockets — everything uses Python threads + queues.
 
 ---
 
-# 📁 Project Structure
+# 📁 Project Structure 
 
 ```
 mitm_sim.py        # Main program with servers, mediator, MITM logic, replay, GUI, etc.
