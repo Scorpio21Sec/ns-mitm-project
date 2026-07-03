@@ -2,7 +2,7 @@
 
 ### **A safe, in-process Man-In-The-Middle (MITM) simulation using Python threads, queues, GUI monitoring & packet replay**
 
-This project provides a **fully safe**, **offline-only**, **in-process** simulation of network traffic involving multiple virtual servers communicating through a `NetworkMediator`.
+This project provides a **fully safe**, **offline-only**, **in-process** simulation of network traffic involving multiple virtual servers communicating through a `NetworkMediator`. 
 A dedicated MITM server intercepts packets, detects token patterns, optionally modifies payloads, logs data, and forwards traffic.
 
 It includes:
